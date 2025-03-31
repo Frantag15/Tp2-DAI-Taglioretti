@@ -10,7 +10,7 @@ function parsearUrl(laURL) {
     };
 }
 
-let miUrl = 'http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2025&mes=marzo';
+let miUrl = 'http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2022&mes=mayo';
 let miObjeto = parsearUrl(miUrl);
 
 console.log(miObjeto);

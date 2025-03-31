@@ -15,8 +15,8 @@ function parsearUrl(laURL) {
     }
 }
 
-let urlValida = 'http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2025&mes=marzo';
-let urlInvalida = 'htp:/malformada//url';
+let urlValida = 'http://www.ort.edu.ar:8080/alumnos/index.htm?curso=2022&mes=mayo';
+let urlInvalida = 'shshsjspojsaposaj';
 
 console.log(parsearUrl(urlValida));
 console.log(parsearUrl(urlInvalida));

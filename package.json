@@ -1,0 +1,24 @@
+{
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "# TP2-DAI-Taglioretti-1",
+  "license": "ISC",
+  "author": "Franco",
+  "type": "module",
+  "main": "ej1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej01": "node /ej1.js",
+    "ej02": "node ej2.js",
+    "ej03": "node ej3.js",
+    "ej04": "node ej4.js",
+    "ej05": "node ej5.js",
+    "ej06": "node ej6.js",
+    "ej07": "node ej7.js",
+    "ej08": "node ej8.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "currency-map-country": "^1.0.12"
+  }
+}
