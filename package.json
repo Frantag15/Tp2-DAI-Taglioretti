@@ -8,14 +8,14 @@
   "main": "ej1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ej01": "node /ej1.js",
-    "ej02": "node ej2.js",
-    "ej03": "node ej3.js",
-    "ej04": "node ej4.js",
-    "ej05": "node ej5.js",
-    "ej06": "node ej6.js",
-    "ej07": "node ej7.js",
-    "ej08": "node ej8.js"
+    "ej01": "node ./src/ej1.js",
+    "ej02": "node ./src/ej2.js",
+    "ej03": "node ./src/ej3.js",
+    "ej04": "node ./src/ej4.js",
+    "ej05": "node ./src/ej5.js",
+    "ej06": "node ./src/ej6.js",
+    "ej07": "node ./src/ej7.js",
+    "ej08": "node ./src/ej8.js"
   },
   "dependencies": {
     "axios": "^1.8.4",

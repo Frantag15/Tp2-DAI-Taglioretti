@@ -1,4 +1,4 @@
-import { PI, sumar, restar, multiplicar, dividir, numerosTexto } from "./src/modules/matematica.js";
+import { PI, sumar, restar, multiplicar, dividir, numerosTexto } from "./modules/matematica.js";
 
 let numero1 = 10, numero2 = 20;
 console.clear();

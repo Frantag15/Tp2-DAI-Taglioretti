@@ -1,7 +1,7 @@
 let textoEntrada1 = "Escuela", textoEntrada2 = "ORT";
 let textoSalida = "";
 
-textoSalida = concatInvert(textoEntrada01, textoEntrada02);
+textoSalida = concatInvert(textoEntrada1, textoEntrada2);
 
 console.clear();
 console.log(`Textos de Entrada: "${textoEntrada1}" y "${textoEntrada2}"`);
